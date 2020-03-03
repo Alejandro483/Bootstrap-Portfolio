@@ -23,3 +23,7 @@ main > .container {
     padding-left: ($spacer * .5) !important;
     padding-right: ($spacer * .5) !important;
   }
+  #col-4{
+      size: 50px;
+      height: auto;
+  }
