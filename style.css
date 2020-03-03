@@ -19,3 +19,7 @@ main > .container {
   code {
     font-size: 80%;
   }
+  .px-2 {
+    padding-left: ($spacer * .5) !important;
+    padding-right: ($spacer * .5) !important;
+  }
